@@ -127,7 +127,7 @@ This course will introduce you to the world of computer science and programming.
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9)
-[A Beginner's Tutorial to Git and GitHub](http://udacity.com/blog/2015.06/a-beginners-git-github-tutorial.html) | 30 minutes | - | - | -
+[A Beginner's Tutorial to Git and GitHub](https://www.udacity.com/blog/2015/06/a-beginners-git-github-tutorial.html) | 30 minutes | - | - | -
 
 ## Core CS
 
