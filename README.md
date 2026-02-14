@@ -124,10 +124,10 @@ This course will introduce you to the world of computer science and programming.
 `basic data structures and algorithms`
 `and more`
 
-Completed | Courses | Duration | Effort | Prerequisites | Begin Date | Completed Date
-:-- | :--: | :--: | :--: | :--: | :--: | :--: 
-- | [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | 2/14/2026 | -
-✅ | [A Beginner's Tutorial to Git and GitHub](https://www.udacity.com/blog/2015/06/a-beginners-git-github-tutorial.html) | 30 minutes | - | - | 2/14/2026 | 2/14/2026
+Completed | Courses | Duration | Effort | Prerequisites | Begin Date | Completed Date |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| - | [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | 2/14/2026 | - |
+| ✅ | [A Beginner's Tutorial to Git and GitHub](https://www.udacity.com/blog/2015/06/a-beginners-git-github-tutorial.html) | 30 minutes | - | - | 2/14/2026 | 2/14/2026 |
 
 ## Core CS
 
